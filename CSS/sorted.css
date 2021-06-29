@@ -1,0 +1,31 @@
+.listtitle {
+  text-align: center;
+  line-height: 10px;
+}
+
+.list {
+  text-align: center;
+  border: 1px black solid;
+  border-radius: 15px;
+  line-height: 2em;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.warning {
+  color: brown;
+}
+
+.today {
+  color: darkcyan;
+}
+
+.tomorrow {
+  color: deeppink;
+}
+
+.title {
+  color: darkslategrey;
+}
