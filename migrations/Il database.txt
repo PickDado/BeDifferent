@@ -1,0 +1,1 @@
+il database si chiama s2icharmingrubbish ricordarsi il" CREATE DATABASE `s2icharmingrubbish2`; "
