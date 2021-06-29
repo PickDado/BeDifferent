@@ -16,10 +16,11 @@
 
     <div class="listtitle">
         <h1 class="title"> Raccolta differenziata a <strong>Sciacca(AG)</strong> </h1>
-        <h1 class="warning"> <?php include("./controller/warning.php") ?></h1>
+
     </div>
     <div class="list">
-        <h3 class="today">Oggi</h3> <?php include("./models/today.php") ?>
+        <h1 class="warning"> <?php include("./controller/warning.php") ?></h1>
+        <?php include("./models/today.php") ?>
     </div>
     <div class="list">
         <h3 class="tomorrow">Domani</h3> <?php include("./models/tomorrow.php") ?>
