@@ -15,7 +15,7 @@
 
 
     <div class="listtitle">
-        <h1 class="title"> Raccolta differenziata a <strong>Sciacca(AG)</strong> </h1>
+        <h2 class="title"> Raccolta differenziata a Sciacca(AG) </h2>
 
     </div>
     <div class="list">
